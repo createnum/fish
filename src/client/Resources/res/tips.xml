@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data key="1001" value="%d连消%d分"/>
+  <data key="1002" value="奖励%d分"/>
+  <data key="1003" value="剩余%d颗星星"/>
+  <data key="1004" value="关卡%d"/>
+  <data key="1005" value="目标分数%d"/>
+  <data key="1006" value="选择需要变色的星星"/>
+  <data key="1007" value="旋转花费%d颗砖石"/>
+  <data key="1008" value="砸掉3*3的星星"/>
+  <data key="1009" value="捕获%s，获得%d金币"/>
+  <data key="1010" value="您没有在规定的时间内完成任务：%s，"/>
+  <data key="1011" value="您完成任务：%s，获得金币：%d"/>
+  <data key="1012" value="您没有足够的金币，请充值"/>
+  <data key="1013" value="提示：点击领取将通过短信支付%d元"/>
+  <data key="1014" value="您将要购买狂捕美人鱼的%d金币，" />
+  <data key="1015" value="支付%d元，是否确认支付？"/>
+</include>

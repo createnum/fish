@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+	<store>
+	  <data gold="100" presentGold="0" rmb="100" payCode="001" showInStore="false" miniGift="true"/>
+	  <data gold="400" presentGold="100" rmb="400" payCode="002" showInStore="true"/>
+	  <data gold="600" presentGold="200" rmb="600" payCode="003" showInStore="true"/>
+	  <data gold="1000" presentGold="500" rmb="1000" payCode="004" showInStore="true"/>
+	  <data gold="1500" presentGold="1200" rmb="1500" payCode="005" showInStore="true"/>
+	  <data gold="2000" presentGold="1800" rmb="2000" payCode="006" showInStore="true" gift="true"/>
+	  <data gold="3000" presentGold="3000" rmb="3000" payCode="007" showInStore="true"/>
+	</store>
+</include>

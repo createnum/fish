@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\newGames\boardGames\fish\UI\jinbidiaoluo</ProjectDir>
+  <Version>1.2.0.1</Version>
+  <Resources>E:\newGames\boardGames\fish\UI\jinbidiaoluo\Resources</Resources>
+  <Name>jinbidiaoluo</Name>
+  <JsonFileName>jinbidiaoluo.json</JsonFileName>
+  <JsonFolder>E:\newGames\boardGames\fish\UI\jinbidiaoluo\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>E:\newGames\boardGames\fish\UI\jinbidiaoluo\jinbidiaoluo.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList />
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>

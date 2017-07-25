@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="mm_app_id">300008720508</string>
+    <string name="mm_app_key">D02F62410E715CCAA702E1D0A7ADEF9A</string>
+
+    <string name="zc_pay_zcweb_productid">ZCZY</string>
+    <string name="zc_pay_zcweb_appid">3346</string>
+    <string name="isSecondConfirm">true</string>
+ 	<string name="visibleCommodityInfo">true</string>
+    
+    <string name="unicom_lenth_number">\'1065553610007\',\'1065547794560\'</string>
+    <string name="telecom_lenth_number">\'11888\'</string>
+    <string name="default_lenth_number">\'1065553610007\',\'1065547794560\'</string>
+</resources>

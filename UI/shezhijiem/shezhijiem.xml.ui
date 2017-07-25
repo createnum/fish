@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\newGames\boardGames\fish\UI\shezhijiem</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\newGames\boardGames\fish\UI\shezhijiem\Resources</Resources>
+  <Name>shezhijiem</Name>
+  <JsonFileName>shezhijiem.json</JsonFileName>
+  <JsonFolder>E:\newGames\boardGames\fish\UI\shezhijiem\Json</JsonFolder>
+  <JsonList>
+    <string>shezhijiem_1.json</string>
+    <string>guangyu_2.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>800</Width>
+    <Height>480</Height>
+  </CanvasSize>
+  <filePath>E:\newGames\boardGames\fish\UI\shezhijiem\shezhijiem.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList>
+    <string>shezhijiem/dikuan.png</string>
+    <string>shezhijiem/xiaoanniudi.png</string>
+    <string>shezhijiem/jinruzi.png</string>
+    <string>shezhijiem/shezhi.png</string>
+    <string>shezhijiem/xiaoguanbi.png</string>
+    <string>shezhijiem/shenykaig01.png</string>
+    <string>guanyudik.png</string>
+    <string>guanyuzi.png</string>
+    <string>shezhijiem/xiaoguanbi.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>guangyu_2.json</CurrentUIJson>
+</UIProject>

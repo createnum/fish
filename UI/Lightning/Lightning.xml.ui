@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\newGames\boardGames\fish\UI\Lightning</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\newGames\boardGames\fish\UI\Lightning\Resources</Resources>
+  <Name>Lightning</Name>
+  <JsonFileName>Lightning.json</JsonFileName>
+  <JsonFolder>E:\newGames\boardGames\fish\UI\Lightning\Json</JsonFolder>
+  <JsonList>
+    <string>Lightning_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>E:\newGames\boardGames\fish\UI\Lightning\Lightning.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>Lightning0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>Lightning0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>Lightning_1.json</CurrentUIJson>
+</UIProject>

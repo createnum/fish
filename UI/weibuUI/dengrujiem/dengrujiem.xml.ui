@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\newGames\boardGames\fish\UI\weibuUI\dengrujiem</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\newGames\boardGames\fish\UI\weibuUI\dengrujiem\Resources</Resources>
+  <Name>dengrujiem</Name>
+  <JsonFileName>dengrujiem.json</JsonFileName>
+  <JsonFolder>E:\newGames\boardGames\fish\UI\weibuUI\dengrujiem\Json</JsonFolder>
+  <JsonList>
+    <string>dengrujiem_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>800</Width>
+    <Height>480</Height>
+  </CanvasSize>
+  <filePath>E:\newGames\boardGames\fish\UI\weibuUI\dengrujiem\dengrujiem.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>dengrujiem0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>dengrujiem0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>dengrujiem_1.json</CurrentUIJson>
+</UIProject>

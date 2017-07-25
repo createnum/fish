@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data taskId="1" taskName="捕鱼任务" fish_id="1" eventType="1" taskTime="150" needNum="30" rewardGold="100" rewardExp="100"/>
+  <data taskId="2" taskName="捕鱼任务" fish_id="1" eventType="1" taskTime="180" needNum="40" rewardGold="100" rewardExp="100"/>
+  <data taskId="3" taskName="捕鱼任务" fish_id="2" eventType="1" taskTime="180" needNum="20" rewardGold="100" rewardExp="120"/>
+  <data taskId="4" taskName="捕鱼任务" fish_id="2" eventType="1" taskTime="210" needNum="30" rewardGold="100" rewardExp="120"/>
+  <data taskId="5" taskName="捕鱼任务" fish_id="3" eventType="1" taskTime="180" needNum="30" rewardGold="100" rewardExp="120"/>
+  <data taskId="6" taskName="捕鱼任务" fish_id="3" eventType="1" taskTime="210" needNum="40" rewardGold="100" rewardExp="120"/>
+  <data taskId="7" taskName="捕鱼任务" fish_id="5" eventType="1" taskTime="150" needNum="10" rewardGold="100" rewardExp="150"/>
+  <data taskId="8" taskName="捕鱼任务" fish_id="5" eventType="1" taskTime="180" needNum="15" rewardGold="120" rewardExp="150"/>
+  <data taskId="9" taskName="捕鱼任务" fish_id="4" eventType="1" taskTime="180" needNum="15" rewardGold="100" rewardExp="150"/>
+  <data taskId="10" taskName="捕鱼任务" fish_id="4" eventType="1" taskTime="210" needNum="20" rewardGold="100" rewardExp="150"/>
+  <data taskId="11" taskName="捕鱼任务" fish_id="6" eventType="1" taskTime="150" needNum="10" rewardGold="100" rewardExp="160"/>
+  <data taskId="12" taskName="捕鱼任务" fish_id="6" eventType="1" taskTime="180" needNum="15" rewardGold="100" rewardExp="160"/>
+  <data taskId="13" taskName="捕鱼任务" fish_id="7" eventType="1" taskTime="150" needNum="10" rewardGold="100" rewardExp="180"/>
+  <data taskId="14" taskName="捕鱼任务" fish_id="7" eventType="1" taskTime="180" needNum="15" rewardGold="100" rewardExp="180"/>
+  <data taskId="15" taskName="捕鱼任务" fish_id="8" eventType="1" taskTime="180" needNum="5" rewardGold="100" rewardExp="180"/>
+  <data taskId="16" taskName="捕鱼任务" fish_id="8" eventType="1" taskTime="210" needNum="7" rewardGold="100" rewardExp="200"/>
+  <data taskId="17" taskName="捕鱼任务" fish_id="9" eventType="1" taskTime="210" needNum="4" rewardGold="100" rewardExp="200"/>
+  <data taskId="18" taskName="捕鱼任务" fish_id="9" eventType="1" taskTime="210" needNum="7" rewardGold="150" rewardExp="200"/>
+  <data taskId="19" taskName="捕鱼任务" fish_id="10,11" eventType="1" taskTime="150" needNum="1" rewardGold="120" rewardExp="240"/>
+  <data taskId="20" taskName="捕鱼任务" fish_id="10,11" eventType="1" taskTime="210" needNum="2" rewardGold="120" rewardExp="240"/>
+  <data taskId="21" taskName="捕鱼任务" fish_id="13" eventType="1" taskTime="150" needNum="1" rewardGold="120" rewardExp="240"/>
+  <data taskId="22" taskName="捕鱼任务" fish_id="13" eventType="1" taskTime="210" needNum="2" rewardGold="120" rewardExp="240"/>
+  <data taskId="23" taskName="捕鱼任务" fish_id="12" eventType="1" taskTime="150" needNum="5" rewardGold="100" rewardExp="200"/>
+  <data taskId="24" taskName="捕鱼任务" fish_id="12" eventType="1" taskTime="180" needNum="7" rewardGold="100" rewardExp="200"/>
+  <data taskId="25" taskName="捕鱼任务" fish_id="15" eventType="1" taskTime="150" needNum="3" rewardGold="120" rewardExp="180"/>
+  <data taskId="26" taskName="捕鱼任务" fish_id="15" eventType="1" taskTime="210" needNum="4" rewardGold="120" rewardExp="180"/>
+  <data taskId="27" taskName="捕鱼任务" fish_id="14" eventType="1" taskTime="150" needNum="10" rewardGold="100" rewardExp="160"/>
+  <data taskId="28" taskName="捕鱼任务" fish_id="14" eventType="1" taskTime="180" needNum="15" rewardGold="100" rewardExp="160"/>
+  <data taskId="29" taskName="捕鱼任务" fish_id="16" eventType="1" taskTime="150" needNum="3" rewardGold="120" rewardExp="150"/>
+  <data taskId="30" taskName="捕鱼任务" fish_id="16" eventType="1" taskTime="210" needNum="5" rewardGold="120" rewardExp="150"/>
+  <data taskId="31" taskName="捕鱼任务" fish_id="-1" eventType="1" taskTime="150" needNum="40" rewardGold="110" rewardExp="150"/>
+  <data taskId="32" taskName="捕鱼任务" fish_id="-1" eventType="1" taskTime="210" needNum="60" rewardGold="125" rewardExp="150"/>
+  <data taskId="33" taskName="捕鱼任务" fish_id="-1" eventType="1" taskTime="270" needNum="80" rewardGold="130" rewardExp="150"/>
+  <data taskId="34" taskName="捕鱼任务" fish_id="-1" eventType="1" taskTime="270" needNum="100" rewardGold="200" rewardExp="180"/>
+  <data taskId="35" taskName="捕鱼任务" fish_id="-1" eventType="1" taskTime="270" needNum="160" rewardGold="250" rewardExp="200"/>
+  <data taskId="36" taskName="捕鱼任务" fish_id="-1" eventType="1" taskTime="300" needNum="200" rewardGold="250" rewardExp="200"/>
+  <data taskId="37" taskName="补充金币" fish_id="-1" eventType="2" taskTime="540" needNum="1000" rewardGold="150" rewardExp="200"/>
+  <data taskId="38" taskName="补充金币" fish_id="-1" eventType="2" taskTime="540" needNum="2000" rewardGold="200" rewardExp="300"/>
+  <data taskId="39" taskName="补充金币" fish_id="-1" eventType="2" taskTime="540" needNum="5000" rewardGold="300" rewardExp="400"/>
+  <data taskId="40" taskName="补充金币" fish_id="-1" eventType="2" taskTime="210" needNum="1000" rewardGold="150" rewardExp="200"/>
+</include>

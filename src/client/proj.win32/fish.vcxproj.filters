@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\tools">
+      <UniqueIdentifier>{249571d5-66fa-43b6-9285-5017291713d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\dictionary">
+      <UniqueIdentifier>{7b0fcf73-769d-4555-ae36-30589a4f5a5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\uis">
+      <UniqueIdentifier>{af7fa7b8-4a89-4714-ad9a-f10fb44eb604}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonFunc.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="myUtilsConfig.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\myGame.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\menuScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tipsDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gameScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\backgroundLayer.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\menuLayer.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\spriteLayer.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\touchLayer.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\fishDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\box2dHandler.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\b2Sprite.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GLES-Render.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\levelDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\formationDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\levelUpgradeLayer.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\fishRoute.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\taskDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\storeScene.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\exchangeDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\bezierTest.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\checkinLayer.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\rewardDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\taskUI.cpp">
+      <Filter>Classes\uis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\testinAdapter.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonFunc.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\myUtilsConfig.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\myGame.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\menuScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tipsDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\configMacro.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gameScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\backgroundLayer.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\menuLayer.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\spriteLayer.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\touchLayer.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\fishDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\box2dHandler.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\b2Sprite.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GLES-Render.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\fishDelegates.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\levelDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\formationDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\levelUpgradeLayer.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\fishRoute.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\taskDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\storeScene.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\exchangeDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\bezierTest.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\checkinLayer.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\rewardDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\taskUI.h">
+      <Filter>Classes\uis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\testinAdapter.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

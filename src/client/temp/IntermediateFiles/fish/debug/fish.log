@@ -1,0 +1,52 @@
+﻿生成启动时间为 2017/7/18 17:50:46。
+     1>项目“D:\sktGame\games\fish\src\client\proj.win32\fish.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\include" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\kazmath\include" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\platform\win32" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\platform\third_party\win32" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\platform\third_party\win32\OGLES" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\external" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\external\chipmunk\include\chipmunk" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\CocosDenshion\include" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\extensions" /I"D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\extensions\sktTools" /I..\Classes /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\..\..\temp\IntermediateFiles\fish\debug\\" /Fd"Debug.win32\..\..\temp\IntermediateFiles\fish\debug\vc120.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\menuScene.cpp
+         menuScene.cpp
+       PreLinkEvent:
+         if not exist "D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\" mkdir "D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\sktGame\games\fish\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\external\libwebsockets\win32\lib\*.*" "D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\"
+         :VCEnd
+         复制了 2 个文件
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\fish.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\ libExtensions.lib libcocos2d.lib libCocosDenshion.lib opengl32.lib glew32.lib libBox2d.lib libchipmunk.lib libcurl_imp.lib pthreadVCE2.lib websockets.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\fish.pdb" /SUBSYSTEM:WINDOWS,"5.01" /HEAP:"0x4000000","0x4000000" /STACK:"0x4000000","0x4000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\fish.lib" /MACHINE:X86 /SAFESEH Debug.win32\..\..\temp\IntermediateFiles\fish\debug\AppDelegate.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\b2Sprite.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\backgroundLayer.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\bezierTest.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\box2dHandler.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\checkinLayer.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\CommonFunc.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\exchangeDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\fishDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\fishRoute.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\formationDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\gameScene.obj
+         "Debug.win32\..\..\temp\IntermediateFiles\fish\debug\GLES-Render.obj"
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\levelDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\levelUpgradeLayer.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\menuLayer.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\menuScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\myGame.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\rewardDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\spriteLayer.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\storeScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\taskDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\taskUI.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\testinAdapter.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\tipsDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\touchLayer.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\main.obj
+         Debug.win32\..\..\temp\IntermediateFiles\fish\debug\myUtilsConfig.obj
+         D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\libcocos2d.lib
+         D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\libCocosDenshion.lib
+         D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\libExtensions.lib
+         D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\libBox2D.lib
+         D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\libchipmunk.lib
+     1>AppDelegate.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         fish.vcxproj -> D:\sktGame\games\fish\src\client\proj.win32\Debug.win32\fish.exe
+     1>已完成生成项目“D:\sktGame\games\fish\src\client\proj.win32\fish.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.60

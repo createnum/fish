@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="gm">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/common_src"/>
+        <wb-resource deploy-path="/WEB-INF/res" source-path="/res"/>
+        <wb-resource deploy-path="/WEB-INF/conf" source-path="/conf"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/common_src_all"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/common_src_gm&amp;server"/>
+        <property name="context-root" value="gm"/>
+        <property name="java-output-path" value="/gm/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\sktGame\games\fish\UI\xianshiyh</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\sktGame\games\fish\UI\xianshiyh\Resources</Resources>
+  <Name>shangchengjiemian</Name>
+  <JsonFileName>shangchengjiemian.json</JsonFileName>
+  <JsonFolder>D:\sktGame\games\fish\UI\xianshiyh\Json</JsonFolder>
+  <JsonList>
+    <string>xianshiyh_1.json</string>
+    <string>yiyuanlibao_1_0.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>800</Width>
+    <Height>480</Height>
+  </CanvasSize>
+  <filePath>D:\sktGame\games\fish\UI\xianshiyh\xianshiyh.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>xianshiyh0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>xianshiyh0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>yiyuanlibao_1_0.json</CurrentUIJson>
+</UIProject>

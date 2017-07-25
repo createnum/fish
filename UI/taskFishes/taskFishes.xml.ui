@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\GreatGames\boardGames\fish\UI\taskFishes</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\GreatGames\boardGames\fish\UI\taskFishes\Resources</Resources>
+  <Name>taskFishes</Name>
+  <JsonFileName>taskFishes.json</JsonFileName>
+  <JsonFolder>D:\GreatGames\boardGames\fish\UI\taskFishes\Json</JsonFolder>
+  <JsonList>
+    <string>taskFishes.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>256</Width>
+    <Height>256</Height>
+  </CanvasSize>
+  <filePath>D:\GreatGames\boardGames\fish\UI\taskFishes\taskFishes.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>taskFishes0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>taskFishes0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>taskFishes.json</CurrentUIJson>
+</UIProject>

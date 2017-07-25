@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\sktGame\games\fish\UI\meiridengrujiem</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\sktGame\games\fish\UI\meiridengrujiem\Resources</Resources>
+  <Name>meiridengrujiem</Name>
+  <JsonFileName>meiridengrujiem.json</JsonFileName>
+  <JsonFolder>E:\sktGame\games\fish\UI\meiridengrujiem\Json</JsonFolder>
+  <JsonList>
+    <string>meiridengrujiem_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>800</Width>
+    <Height>480</Height>
+  </CanvasSize>
+  <filePath>E:\sktGame\games\fish\UI\meiridengrujiem\meiridengrujiem.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>meiridengrujiem0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson />
+</UIProject>

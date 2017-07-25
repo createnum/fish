@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data level="1" upgradeExp="400" showName="学徒" bombCount="10" rewardGold="0"/>
+  <data level="2" upgradeExp="440" showName="学徒" bombCount="10" rewardGold="100"/>
+  <data level="3" upgradeExp="480" showName="学徒" bombCount="10" rewardGold="150"/>
+  <data level="4" upgradeExp="800" showName="渔夫" bombCount="11" rewardGold="200" cannonAdd="20级"/>
+  <data level="5" upgradeExp="880" showName="渔夫" bombCount="11" rewardGold="300"/>
+  <data level="6" upgradeExp="960" showName="渔夫" bombCount="12" rewardGold="350" cannonAdd="30级"/>
+  <data level="7" upgradeExp="1600" showName="水手" bombCount="12" rewardGold="400"/>
+  <data level="8" upgradeExp="1760" showName="水手" bombCount="13" rewardGold="400" cannonAdd="40级"/>
+  <data level="9" upgradeExp="1920" showName="水手" bombCount="13" rewardGold="400"/>
+  <data level="10" upgradeExp="3200" showName="大副" bombCount="14" rewardGold="500" cannonAdd="50级"/>
+  <data level="11" upgradeExp="3520" showName="大副" bombCount="14" rewardGold="500"/>
+  <data level="12" upgradeExp="3840" showName="大副" bombCount="15" rewardGold="500" cannonAdd="100级"/>
+  <data level="13" upgradeExp="6400" showName="船长" bombCount="15" rewardGold="600"/>
+  <data level="14" upgradeExp="7040" showName="船长" bombCount="15" rewardGold="600"/>
+  <data level="15" upgradeExp="7680" showName="船长" bombCount="15" rewardGold="600"/>
+  <data level="16" upgradeExp="12800" showName="维京人" bombCount="15" rewardGold="800"/>
+  <data level="17" upgradeExp="14080" showName="维京人" bombCount="15" rewardGold="800"/>
+  <data level="18" upgradeExp="16360" showName="维京人" bombCount="15" rewardGold="800"/>
+  <data level="19" upgradeExp="25600" showName="两栖怪鱼" bombCount="15" rewardGold="900"/>
+  <data level="20" upgradeExp="28160" showName="两栖怪鱼" bombCount="15" rewardGold="900"/>
+  <data level="21" upgradeExp="30720" showName="两栖怪鱼" bombCount="15" rewardGold="900"/>
+  <data level="22" upgradeExp="51200" showName="北海巨妖" bombCount="15" rewardGold="1000"/>
+  <data level="23" upgradeExp="56320" showName="北海巨妖" bombCount="15" rewardGold="1000"/>
+  <data level="24" upgradeExp="61440" showName="北海巨妖" bombCount="15" rewardGold="1000"/>
+  <data level="25" upgradeExp="102400" showName="海妖塞壬" bombCount="15" rewardGold="1200"/>
+  <data level="26" upgradeExp="112640" showName="海妖塞壬" bombCount="15" rewardGold="1200"/>
+  <data level="27" upgradeExp="122880" showName="海妖塞壬" bombCount="15" rewardGold="1200"/>
+  <data level="28" upgradeExp="204800" showName="涅柔斯" bombCount="15" rewardGold="1500"/>
+  <data level="29" upgradeExp="225280" showName="涅柔斯" bombCount="15" rewardGold="1500"/>
+  <data level="30" upgradeExp="245760" showName="涅柔斯" bombCount="15" rewardGold="1500"/>
+  <data level="31" upgradeExp="409600" showName="深海阎王" bombCount="15" rewardGold="2000"/>
+  <data level="32" upgradeExp="450560" showName="深海阎王" bombCount="15" rewardGold="2000"/>
+  <data level="33" upgradeExp="491520" showName="深海阎王" bombCount="15" rewardGold="2000"/>
+  <data level="34" upgradeExp="501520" showName="波塞冬" bombCount="15" rewardGold="3000"/>
+  <data level="35" upgradeExp="511520" showName="波塞冬" bombCount="15" rewardGold="3000"/>
+  <data level="36" upgradeExp="521520" showName="波塞冬" bombCount="15" rewardGold="3000"/>
+  <data level="37" upgradeExp="531520" showName="波塞冬" bombCount="15" rewardGold="3500"/>
+  <data level="38" upgradeExp="541520" showName="波塞冬" bombCount="15" rewardGold="3500"/>
+  <data level="39" upgradeExp="551520" showName="波塞冬" bombCount="15" rewardGold="3500"/>
+  <data level="40" upgradeExp="561520" showName="波塞冬" bombCount="15" rewardGold="4000"/>
+  <data level="41" upgradeExp="571520" showName="波塞冬" bombCount="15" rewardGold="4000"/>
+  <data level="42" upgradeExp="581520" showName="波塞冬" bombCount="15" rewardGold="4000"/>
+  <data level="43" upgradeExp="591520" showName="波塞冬" bombCount="15" rewardGold="5000"/>
+  <data level="44" upgradeExp="601520" showName="波塞冬" bombCount="15" rewardGold="5000"/>
+  <data level="45" upgradeExp="611520" showName="波塞冬" bombCount="15" rewardGold="5000"/>
+  <data level="46" upgradeExp="621520" showName="波塞冬" bombCount="15" rewardGold="6000"/>
+  <data level="47" upgradeExp="631520" showName="波塞冬" bombCount="15" rewardGold="6000"/>
+  <data level="48" upgradeExp="641520" showName="波塞冬" bombCount="15" rewardGold="8000"/>
+  <data level="49" upgradeExp="651520" showName="波塞冬" bombCount="15" rewardGold="8000"/>
+  <data level="50" upgradeExp="661520" showName="波塞冬" bombCount="15" rewardGold="10000"/>
+</include>

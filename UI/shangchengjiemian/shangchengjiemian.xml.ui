@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\sktGame\games\fish\UI\shangchengjiemian</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\sktGame\games\fish\UI\shangchengjiemian\Resources</Resources>
+  <Name>shangchengjiemian</Name>
+  <JsonFileName>shangchengjiemian.json</JsonFileName>
+  <JsonFolder>D:\sktGame\games\fish\UI\shangchengjiemian\Json</JsonFolder>
+  <JsonList>
+    <string>shangchengjiemian_1.json</string>
+    <string>renwutishijiemian_2.json</string>
+    <string>shangchengitem.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>800</Width>
+    <Height>480</Height>
+  </CanvasSize>
+  <filePath>D:\sktGame\games\fish\UI\shangchengjiemian\shangchengjiemian.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>shangchengjiemian0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson />
+</UIProject>

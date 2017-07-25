@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data orderId="1" waitTime="60" rewardGold="100"/>
+  <data orderId="2" waitTime="180" rewardGold="200"/>
+  <data orderId="3" waitTime="300" rewardGold="500"/>
+  <data orderId="4" waitTime="600" rewardGold="1000"/>
+  <data orderId="5" waitTime="1200" rewardGold="2400"/>
+</include>
