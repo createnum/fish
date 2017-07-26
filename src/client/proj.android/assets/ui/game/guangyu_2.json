@@ -347,7 +347,7 @@
           "fontName": "微软雅黑",
           "fontSize": 20,
           "hAlignment": 0,
-          "text": "公司名称：北京赞成科技发展有限公司",
+          "text": "公司名称：",
           "touchScaleEnable": false,
           "vAlignment": 0
         }
@@ -447,7 +447,7 @@
           "fontName": "微软雅黑",
           "fontSize": 20,
           "hAlignment": 0,
-          "text": "免责声明：本游戏的版权归北京赞成科技发展有限公司所有，游戏中的文字、图片等内容均为游戏版权所有者的个人态度或立场。",
+          "text": "免责声明：本游戏的版权归xxxxx所有，游戏中的文字、图片等内容均为游戏版权所有者的个人态度或立场。",
           "touchScaleEnable": false,
           "vAlignment": 0
         }
