@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="company">北京赞成科技发展有限公司</string>
+    <string name="company">公司信息</string>
     <string name="app_name">闪电捕鱼</string>
     <string name="version_name">1.0</string>
-    <string name="pjcb">批准文号：新广出审[2017]3820 号		出版物号：ISBN 978-7-7979-7144-7</string>
-    <string name="zzcb">著作权人：北京赞成科技发展有限公司		出版单位：咪咕互动娱乐有限公司</string>
-    <string name="yydw">运营单位：北京赞成科技发展有限公司</string>
+    <string name="pjcb"></string>
+    <string name="zzcb"></string>
+    <string name="yydw"></string>
 
 </resources>
